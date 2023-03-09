@@ -1,4 +1,4 @@
-# Recipes
+# Odin recipes
 
 *"These are a few of my favourite things..."*
 
