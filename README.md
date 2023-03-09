@@ -1,4 +1,6 @@
-# odin-recipes
+# Recipes
+
+*"These are a few of my favourite things..."*
 
 This repository contains links to a few of my favourite recipes. 
 It's a basic static site that proudly follows the principles of
