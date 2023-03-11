@@ -1,0 +1,10 @@
+body {
+    background-color: yellow;
+    font-family: "Lucida Console", "Courier New", sans-serif;
+}
+
+.main {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
